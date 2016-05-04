@@ -1,0 +1,2 @@
+# PredictSubChains
+"You have a chain with links numbered through . Every minute, you draw a random link from a bag, and connect it to any other consecutively­numbered link that you drew before.For example, if you drew , you would end up with three subchains: . You keep on drawing until you have drawn all links and connected them into a single chain of length . Let be the maximum number of subchains in this process. Find what is the mean and standard deviation of the distribution of if = 8 or 16 or 32"
